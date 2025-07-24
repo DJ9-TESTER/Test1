@@ -1,10 +1,1 @@
- Volume in drive E is New Volume
- Volume Serial Number is FC68-1594
-
- Directory of E:\Desktop\Myproject
-
-24-07-2025  15:08    <DIR>          .
-24-07-2025  15:06    <DIR>          ..
-24-07-2025  15:08                 0 test1'txt
-               1 File(s)              0 bytes
-               2 Dir(s)  334,093,418,496 bytes free
+change 1 yoyo
